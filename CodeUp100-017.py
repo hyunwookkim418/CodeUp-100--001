@@ -5,7 +5,7 @@
 #s = input()
 #print(s, s, s)  #공백으로 구분해 한 줄로 출력한다.
 #와 같은 방법으로 3번 출력할 수 있다.
-#modified 03/06/23
+
 
 a=input()
 print(a, a, a)

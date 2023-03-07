@@ -7,7 +7,6 @@
 #print(a)
 #print(b)
 #과 같은 방법으로 두 정수를 입력받아 출력할 수 있다.
-#modified 03/07/23
 
 a, b=input().split()
 a=int(a)
